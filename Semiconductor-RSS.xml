@@ -5,46 +5,14 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Curated articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 20:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 21:00:31 GMT</lastBuildDate>
 
     <item>
-      <title>TSMC ‘Scrambles’ to Bring Advanced Packaging to the U.S. as Soaring Demand Reportedly Pushes Clients Toward Rival Foundries</title>
-      <link>https://wccftech.com/tsmc-scrambles-to-bring-advanced-packaging-to-the-us/</link>
-      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/tsmc-scrambles-to-bring-advanced-packaging-to-the-us/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;488&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/08/TSMC-2-728x488.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;TSMC is now looking to convert a fab site in Arizona into an advanced packaging facility, as the firm witnesses massive demand for CoWoS from US clients. TSMC&apos;s Advanced Packaging Plant Could Arrive In Arizona By The End of 2027 To Meet Customer Demand The need for advanced packaging has risen dramatically amongst AI GPU and ASIC manufacturers, mainly since it is one of the technologies through which AI performance has scaled tremendously. Companies like NVIDIA and AMD have shifted their focus towards producing in the US; however, the lack of advanced packaging facilities from TSMC in the nation ultimately […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/tsmc-scrambles-to-bring-advanced-packaging-to-the-us/&quot;&gt;https://wccftech.com/tsmc-scrambles-to-bring-advanced-packaging-to-the-us/&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 19:37:40 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Advanced Packaging: IPL Reflow Technology For Thermal Regulation (Sungkyunkwan Univ.)</title>
-      <link>https://semiengineering.com/advanced-packaging-ipl-reflow-technology-for-thermal-regulation-sungkyunkwan-univ/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://semiengineering.com/wp-content/uploads/2025/10/AdobeStock_571158465-10-07-25-scaled.jpeg&quot; alt=&quot;AdobeStock_571158465-10-07-25-scaled.jpe&quot;&gt;&lt;/p&gt;&lt;p&gt;A new technical paper titled “A color-coded light-induced heating technology for Pb-free solder joints of advanced multi-semiconductor packaging” was published by researchers at Sungkyunkwan University.&lt;/p&gt;  
-&lt;p&gt;Excerpt from paper:&lt;/p&gt;  
-&lt;p&gt;&lt;b&gt;“&lt;/b&gt;This study introduces a color-coded intense pulsed light (IPL) reflow process, leveraging differential light absorption for localized thermal modulation, enabling simultaneous soldering of multiple alloys in a single reflow cycle. The results show that IPL-soldered joints exhibit superior or comparable mechanical integrity to conventional reflow, with thinner, more stable intermetallic compound (IMC) layers, refined Ag&lt;sub&gt;3&lt;/sub&gt;Sn precipitates, and reduced void formation, enhancing reliability.”&lt;/p&gt;  
-&lt;p&gt;Find the &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2238785425029746&quot;&gt;technical paper here&lt;/a&gt;. November 2025.&lt;/p&gt;  
-&lt;p&gt;Noh, Taejoon, Ho-Kyeong Seong, Minjae Sung, Jaejun Yoon, Jong-Woong Kim, and Seung-Boo Jung. “A Color-Coded Light-Induced Heating Technology for Pb-Free Solder Joints of Advanced Multi-Semiconductor Packaging.” &lt;i&gt;Journal of Materials Research and Technology&lt;/i&gt; (2025). Creative commons &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;license&lt;/a&gt;.&lt;/p&gt;  
-&lt;p&gt;The post &lt;a href=&quot;https://semiengineering.com/advanced-packaging-ipl-reflow-technology-for-thermal-regulation-sungkyunkwan-univ/&quot;&gt;Advanced Packaging: IPL Reflow Technology For Thermal Regulation (Sungkyunkwan Univ.)&lt;/a&gt; appeared first on &lt;a href=&quot;https://semiengineering.com&quot;&gt;Semiconductor Engineering&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Dec 2025 17:41:24 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Huawei Ascend NPU roadmap examined — company targets 4 ZettaFLOPS FP4 performance by 2028, amid manufacturing constraints</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-ascend-npu-roadmap-examined-company-targets-4-zettaflops-fp4-performance-by-2028-amid-manufacturing-constraints</link>
-      <description>Huawei has unveiled its Ascend NPU roadmap featuring Ascend 950, 960, 970 processors and massive SuperClusters with over a million of processors and up to 4 ZettaFLOPS FP4 performance in 2028, shifting from chip scaling to system-level scaling, amid U.S. sanctions and manufacturing constraints.</description>
-      <pubDate>Fri, 05 Dec 2025 17:38:42 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Ultrafast, highly reversible sodium storage in engineered hard carbon achieved</title>
-      <link>https://phys.org/news/2025-12-ultrafast-highly-reversible-sodium-storage.html</link>
-      <description>A research team from the Hefei Institutes of Physical Science of the Chinese Academy of Sciences, has demonstrated ultrafast and highly reversible all-slope sodium storage using specially engineered hard carbon anodes.</description>
-      <pubDate>Fri, 05 Dec 2025 17:31:32 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Iron-on electronic patches enable easy integration of circuits into fabrics</title>
-      <link>https://techxplore.com/news/2025-12-iron-electronic-patches-enable-easy.html</link>
-      <description>Iron-on patches can repair clothing or add personal flair to backpacks and hats. And now they could power wearable tech, too. Researchers reporting in ACS Applied Materials &amp;amp; Interfaces have combined liquid metal and a heat-activated adhesive to create an electrically conductive patch that bonds to fabric when heated with a hot iron. In demonstrations, circuits ironed onto a square of fabric lit up LEDs and attached an iron-on microphone to a button-up shirt.</description>
-      <pubDate>Fri, 05 Dec 2025 17:33:47 GMT</pubDate>
+      <title>Other Barks &amp; Bites for Friday, December 5: Tillis Blasts Lutnick Proposal on Government Share in Profits from Federally Funded Inventions; The Times Sues Perplexity AI; and USPTO Updates MPEP to Reflect Desjardins Decision</title>
+      <link>https://ipwatchdog.com/2025/12/05/bites-barks-ny-times-sues-perplexity-ai-uspto-updates-mpep-reflect-desjardins-decision/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://ipwatchdog.com/wp-content/uploads/2025/12/Jason-Harriers-Samoyed-BLITZEN.jpg.jpeg&quot; alt=&quot;Jason-Harriers-Samoyed-BLITZEN.jpg.jpeg&quot;&gt;&lt;/p&gt;&lt;p&gt;This week in Other Barks &amp;amp; Bites: The U.S. Patent and Trademark Office announced it has updated the Manual of Patent Examining Procedure to reflect recent eligibility guidance; The New York Times has sued Perplexity AI for copyright and trademark infringement; AGs from seven U.S. states sent a letter to the College Sports Commission calling out its “cartoonishly villainous&quot; university participation agreement; and more. &lt;/p&gt;  
+&lt;p&gt;The post &lt;a href=&quot;https://ipwatchdog.com/2025/12/05/bites-barks-ny-times-sues-perplexity-ai-uspto-updates-mpep-reflect-desjardins-decision/&quot;&gt;Other Barks &amp;amp; Bites for Friday, December 5: Tillis Blasts Lutnick Proposal on Government Share in Profits from Federally Funded Inventions; The Times Sues Perplexity AI; and USPTO Updates MPEP to Reflect &amp;lt;i&amp;gt;Desjardins&amp;lt;/i&amp;gt; Decision&lt;/a&gt; appeared first on &lt;a href=&quot;https://ipwatchdog.com&quot;&gt;IPWatchdog.com | Patents &amp;amp; Intellectual Property Law&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Dec 2025 20:32:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
