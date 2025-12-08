@@ -5,17 +5,52 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Dec 2025 19:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 19:30:54 GMT</lastBuildDate>
     <!-- ADD THIS LINE BELOW -->
   <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
   <!-- KEEP THIS LINE (Self Link) -->
   <atom:link href="https://raw.githubusercontent.com/EdsonBellido/semiconductor-RSS/refs/heads/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Meta will let Facebook and Instagram users in the EU share less data</title>
-      <link>https://www.engadget.com/social-media/meta-will-let-facebook-and-instagram-users-in-the-eu-share-less-data-183535897.html?src=rss</link>
-      <description>&lt;p&gt;Meta will soon allow Facebook and Instagram users in the European Union to choose to share less data and see less personalized ads on the platform, the European Commission &lt;a href=&quot;https://digital-markets-act.ec.europa.eu/meta-commits-give-eu-users-choice-personalised-ads-under-dma-2025-12-08_en&quot;&gt;announced&lt;/a&gt;. The change will begin to roll out in January, according to the regulator. &lt;/p&gt;&lt;p&gt;&quot;This is the first time that such a choice is offered on Meta&apos;s social networks,&quot; the commission said in a statement. &quot;Meta will give users the effective choice between: consenting to share all their data and seeing fully personalised advertising, and opting to share less personal data for an experience with more limited personalised advertising.&quot;&lt;/p&gt;&lt;p&gt;The move from Meta comes after the European Commission had fined the company €200 million over its ad-free subscription plans in the EU, which the regulator deemed &quot;&lt;a href=&quot;https://www.engadget.com/eu-criticizes-metas-privacy-for-cash-business-model-103042528.html&quot;&gt;consent or pay&lt;/a&gt;.&quot; Meta began offering ad-free subscriptions to EU users &lt;a href=&quot;https://www.engadget.com/facebook-and-instagram-will-start-offering-ad-free-plans-in-europe-in-november-141650104.html&quot;&gt;in 2023&lt;/a&gt;, and later &lt;a href=&quot;https://www.engadget.com/big-tech/meta-cuts-the-price-of-its-ad-free-plan-by-40-percent-in-a-bid-to-sate-eu-regulators-174926790.html&quot;&gt;lowered the price&lt;/a&gt; of the plans in response to criticism from the commission. Those plans haven&apos;t been very popular, however, with one Meta executive &lt;a href=&quot;https://www.engadget.com/big-tech/what-weve-learned-from-ftc-v-meta-antitrust-trial-162048138.html&quot;&gt;admitting&lt;/a&gt; earlier this year that there&apos;s been &quot;very little interest&quot; from users. &lt;/p&gt;&lt;p&gt;In a statement, a Meta spokesperson said that &quot;we acknowledge&quot; the European Commission&apos;s statement. &quot;Personalized ads are vital for Europe’s economy — last year, Meta’s ads were linked to €213 billion in economic activity and supported 1.44 million jobs across the EU.&quot;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;This article originally appeared on Engadget at https://www.engadget.com/social-media/meta-will-let-facebook-and-instagram-users-in-the-eu-share-less-data-183535897.html?src=rss</description>
-      <pubDate>Mon, 08 Dec 2025 18:47:37 GMT</pubDate>
+      <title>TSMC’s Advanced Packaging Production Lines Are So ‘Bottled Up’ That the Firm Is Now Looking to Outsource Orders to Meet Demand</title>
+      <link>https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;419&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/11/TSMC-1-728x419.jpg&quot; alt=&quot;TSMC could surpass Apple in market value by 2030, predicts analyst&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;TSMC&apos;s advanced packaging capacity is &apos;fully booked&apos; at the moment, which is a huge concern for the AI industry, but it appears that the Taiwan giant has a strategy in sight. TSMC&apos;s &apos;CoWoS&apos; Production Lines Have No Room For Further Orders, As the Firm Now Relies on Outsourcing Advanced packaging has been the &apos;holy grail&apos; for manufacturers when it comes to combining multiple chiplets to scale up the performance of their AI chips, which is why solutions like TSMC&apos;s CoWoS are experiencing peak interest from companies such as NVIDIA, AMD, Google, Apple, MediaTek, and many more. However, based on supply […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/&quot;&gt;https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 19:27:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>16-Core Hygon C86 CPU Reportedly Boasts 3.0 GHz Boost Clock And 95 W TDP</title>
+      <link>https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;410&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/12/Hygon-C86-4G-CPU-728x410.jpg&quot; alt=&quot;Two Hygon processors are displayed with the text &apos;3.0 GHz&apos; against a green wavy background.&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;X86 instruction-compatible Hygon C86 CPU that reportedly delivered on par performance with Intel&apos;s 13th gen processors in MT workloads, can boost up to 3.0 GHz. Leak Suggests Hygon C86 Could Hit 3.0 GHz Boost and 95 W TDP, Making it a True-Efficiency+Performance x86 Contender The last time we looked at the Chinese-made Hygon C86 series, it appeared inside the Thunderobot gaming PCs. The report showcased performance numbers that matched Intel Raptor Lake&apos;s Core i7 SKUs in multi-threaded benchmarks. Despite weaker single-threaded results, the chip demonstrated China&apos;s domestic x86 designs that are evolving quite fast enough to compete with recent processor […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/&quot;&gt;https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 19:27:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Apple Chip Guru, Johny Srouji, Declares He Is Not Planning On “Leaving Anytime Soon”</title>
+      <link>https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;485&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/12/Apple-Johny-Srouji-1-728x485.jpg&quot; alt=&quot;A person in a blue shirt walks through a modern, high-tech laboratory with multiple workstations and computer screens.&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In a dramatic turn of events, Apple&apos;s head of custom silicon and the Senior Vice President of its Hardware Technologies division, Johny Srouji, has publicly declared now that he would stay put at Apple, as per the leaked anecdote of a meeting earlier today. Johny Srouji: &quot;I love my team, and I love my job at Apple&quot; Bloomberg&apos;s Mark Gurman is out with a scoop today, detailing the minutes of a meeting at Apple earlier today, where the Cupertino giant&apos;s head of custom silicon, Johny Srouji, has reportedly renounced any intention of leaving Apple by declaring: &quot;I love my team, […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/&quot;&gt;https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Dec 2025 19:27:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>IQE extends multi-year strategic supply agreement with Lumentum</title>
+      <link>https://www.semiconductor-today.com/news_items/2025/dec/iqe-lumentum-081225.shtml</link>
+      <description>Epiwafer and substrate maker IQE plc of Cardiff, Wales, UK has signed a multi-year extension to its strategic agreement with Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes photonics products for optical networks and lasers for industrial and consumer markets) for the supply of epiwafers supporting advanced sensing technologies...</description>
+      <pubDate>Mon, 08 Dec 2025 19:09:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>New ultra-thin nanomesh electrodes enable breathable &apos;electronic skin&apos;</title>
+      <link>https://techxplore.com/news/2025-12-ultra-thin-nanomesh-electrodes-enable.html</link>
+      <description>Researchers have successfully developed a high-resolution electronic skin (e-skin) device on a breathable (nanomesh) substrate using transfer technology employed in semiconductor manufacturing.</description>
+      <pubDate>Mon, 08 Dec 2025 19:06:56 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>A geometric recipe for stabilizing atomically thin metals</title>
+      <link>https://phys.org/news/2025-12-geometric-recipe-stabilizing-atomically-thin.html</link>
+      <description>Metallenes are atomically thin metals whose unique properties make them extremely promising for nanoscale applications. However, their extreme thinness makes them also flimsy.</description>
+      <pubDate>Mon, 08 Dec 2025 19:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
