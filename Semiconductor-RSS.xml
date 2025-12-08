@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semiconductor Recap News</title>
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Dec 2025 21:00:53 GMT</lastBuildDate>
-    <!-- ADD THIS LINE BELOW -->
-  <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
-  <!-- KEEP THIS LINE (Self Link) -->
-  <atom:link href="https://raw.githubusercontent.com/EdsonBellido/semiconductor-RSS/refs/heads/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 21:27:01 GMT</lastBuildDate>
+    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Intel 300W GPU Appears in Shipping Data as a Possible High-End Graphics Card</title>
+      <link>https://www.extremetech.com/computing/intel-300w-gpu-appears-in-shipping-data-as-a-possible-high-end-graphics</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://i.extremetech.com/imagery/content-types/06RP4WpW2topbba7qfnQzOb/hero-image.fill.size_1200x675.jpg&quot; alt=&quot;hero-image.fill.size_1200x675.jpg&quot;&gt;&lt;/p&gt;With more than 33% extra power than the B580, such a card could rival something like the RTX 4070.</description>
+      <guid isPermaLink="false">https://www.extremetech.com/computing/intel-300w-gpu-appears-in-shipping-data-as-a-possible-high-end-graphics</guid>
+      <pubDate>Mon, 08 Dec 2025 20:54:51 GMT</pubDate>
+    </item>
 
     <item>
       <title>Imec mitiga el cuello de botella térmico en arquitecturas 3D HBM sobre GPU</title>
       <link>https://www.prnewswire.com/news-releases/imec-mitiga-el-cuello-de-botella-termico-en-arquitecturas-3d-hbm-sobre-gpu-302635742.html</link>
       <description>&lt;div&gt;&quot;Esta es también la primera vez que demostramos las capacidades del nuevo programa de cooptimización entre tecnologías (XTCO) de imec para desarrollar sistemas informáticos avanzados más robustos térmicamente&quot;.– Julien Ryckaert, imec.&lt;b&gt;Acerca de imec&lt;br&gt;&lt;/b&gt;Imec es un centro líder mundial en investigación e innovación en tecnologías avanzadas de semiconductores. Gracias a su infraestructura de I+D de vanguardia y a la experiencia de más de 6.500 empleados, imec impulsa la innovación en semiconductores y escalado de sistemas, inteligencia artificial, fotónica de silicio, conectividad y detección.La investigación avanzada de Imec impulsa avances en una amplia gama de sectores, como la informática, la salud, la automoción, la energía, el infoentretenimiento, la industria, la agroalimentación y la seguridad. A través de IC-Link, imec guía a las empresas en cada etapa del proceso de fabricación de un chip, desde el concepto inicial hasta la fabricación a gran escala, ofreciendo soluciones personalizadas adaptadas a las necesidades más avanzadas de diseño y producción.&lt;p&gt;Imec colabora con líderes globales en toda la cadena de valor de semiconductores, así como con empresas tecnológicas, empresas emergentes, instituciones académicas e instituciones de investigación en Flandes y en todo el mundo. Con sede en Lovaina (Bélgica), imec cuenta con centros de investigación en Bélgica, Europa y EE.UU., y con representación en tres continentes. En 2024, imec registró unos ingresos de 1.034 millones de euros. Para más información, visite &lt;a href=&quot;https://edge.prnewswire.com/c/link/?t=0&amp;amp;l=es&amp;amp;o=4574047-1&amp;amp;h=1394508912&amp;amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4574047-1%26h%3D997033306%26u%3Dhttps%253A%252F%252Furldefense.com%252Fv3%252F__http%253A%252Fwww.imec-int.com__%253B!!IHJ3XrWN4X8!JLRsNJKiP8GvBOP_UF2enrB-5PScTqDfDl8DSiYqL3R74CGsNqUd9bB3fChFYSWjCYXgQ5OifkLtmWLnhKazhWgm%2524%26a%3Dwww.imec-int.com&amp;amp;a=www.imec-int.com&quot;&gt;www.imec-int.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/imec-mitiga-el-cuello-de-botella-termico-en-arquitecturas-3d-hbm-sobre-gpu-302635742.html</guid>
       <pubDate>Mon, 08 Dec 2025 20:33:20 GMT</pubDate>
     </item>
 
@@ -28,21 +35,73 @@
 &lt;p&gt;Vollständige Pressemitteilung: &lt;a href=&quot;https://edge.prnewswire.com/c/link/?t=0&amp;amp;l=de&amp;amp;o=4574047-1&amp;amp;h=1490446419&amp;amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4574047-1%26h%3D3249691482%26u%3Dhttps%253A%252F%252Fwww.imec-int.com%252Fen%252Fpress%252Fimec-mitigates-thermal-bottleneck-3d-hbm-gpu-architectures-using-system-technology-co%26a%3Dhttps%253A%252F%252Fwww.imec-int.com%252Fen%252Fpress%252Fimec-mitigates-thermal-bottleneck-3d-hbm-gpu-architectures-using-system-technology-co&amp;amp;a=https%3A%2F%2Fwww.imec-int.com%2Fen%2Fpress%2Fimec-mitigates-thermal-bottleneck-3d-hbm-gpu-architectures-using-system-technology-co&quot;&gt;https://www.imec-int.com/en/press/imec-mitigates-thermal-bottleneck-3d-hbm-gpu-architectures-using-system-technology-co&lt;/a&gt;&lt;/p&gt; 
 &lt;p&gt;Logo - &lt;a href=&quot;https://edge.prnewswire.com/c/link/?t=0&amp;amp;l=de&amp;amp;o=4574047-1&amp;amp;h=3907585312&amp;amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4574047-1%26h%3D3570530253%26u%3Dhttps%253A%252F%252Fmma.prnewswire.com%252Fmedia%252F2839857%252Fimec_Logo.jpg%26a%3Dhttps%253A%252F%252Fmma.prnewswire.com%252Fmedia%252F2839857%252Fimec_Logo.jpg&amp;amp;a=https%3A%2F%2Fmma.prnewswire.com%2Fmedia%2F2839857%2Fimec_Logo.jpg&quot;&gt;https://mma.prnewswire.com/media/2839857/imec_Logo.jpg&lt;/a&gt;&lt;/p&gt; 
 &lt;img alt=&quot;&quot; src=&quot;https://rt.prnewswire.com/rt.gif?NewsItemId=GE40822&amp;amp;Transmission_Id=202512081455PR_NEWS_EURO_ND__GE40822&amp;amp;DateId=20251208&quot;&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div&gt; &lt;/div&gt; &lt;/div&gt;                            &lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/imec-mindert-thermische-engpasse-in-3d-hbm-on-gpu-architekturen-durch-einen-ansatz-zur-gemeinsamen-optimierung-von-system-und-technologie-302635716.html</guid>
       <pubDate>Mon, 08 Dec 2025 20:33:20 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>RoboCrop: Teaching robots how to pick tomatoes</title>
-      <link>https://phys.org/news/2025-12-robocrop-robots-tomatoes.html</link>
-      <description>In the agricultural sector, labor shortages are increasing the need for automated harvesting using robots. However, some fruits, like tomatoes, are tricky to harvest. Tomatoes typically bear fruit in clusters, requiring robots to pick the ripe ones while leaving the rest on the vine, demanding advanced decision-making and control capabilities.</description>
-      <pubDate>Mon, 08 Dec 2025 20:31:37 GMT</pubDate>
     </item>
 
     <item>
       <title>From fullerenes to 2D structures: A unified design principle for boron nanostructures</title>
       <link>https://phys.org/news/2025-12-fullerenes-2d-principle-boron-nanostructures.html</link>
       <description>Boron, a chemical element next to carbon in the periodic table, is known for its unique ability to form complex bond networks. Unlike carbon, which typically bonds with two or three neighboring atoms, boron can share electrons among several atoms. This leads to a wide variety of nanostructures. These include boron fullerenes, which are hollow, cage-like molecules, and borophenes, ultra-thin metallic sheets of boron atoms arranged in triangular and hexagonal patterns.</description>
+      <guid isPermaLink="false">https://phys.org/news/2025-12-fullerenes-2d-principle-boron-nanostructures.html</guid>
       <pubDate>Mon, 08 Dec 2025 20:31:37 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>To Beat China at Drug Innovation, Big Pharma and Generics Need the Supreme Court to End This Patent Absurdity</title>
+      <link>https://ipwatchdog.com/2025/12/08/beat-china-drug-innovation-big-pharma-generics-need-supreme-court-end-patent-absurdity/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://ipwatchdog.com/wp-content/uploads/2023/07/opinion11-21.jpg&quot; alt=&quot;opinion11-21.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt;What&apos;s really holding America back in the biopharma race against China isn&apos;t just Beijing&apos;s subsidies or cheaper labor. It&apos;s the U.S. Court of Appeals for the Federal Circuit&apos;s self-inflicted wound: a court so panel-dependent that no one—brand or generic—knows which rule will apply until the panel is drawn. The Supreme Court can fix this in one stroke by granting certiorari in MSN Pharmaceuticals v. Novartis (No. 25-225) and killing the bizarre &quot;after-arising technology&quot; exception that lets old, vague patents swallow future inventions.&lt;/p&gt;  
+&lt;p&gt;The post &lt;a href=&quot;https://ipwatchdog.com/2025/12/08/beat-china-drug-innovation-big-pharma-generics-need-supreme-court-end-patent-absurdity/&quot;&gt;To Beat China at Drug Innovation, Big Pharma and Generics Need the Supreme Court to End This Patent Absurdity&lt;/a&gt; appeared first on &lt;a href=&quot;https://ipwatchdog.com&quot;&gt;IPWatchdog.com | Patents &amp;amp; Intellectual Property Law&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://ipwatchdog.com/2025/12/08/beat-china-drug-innovation-big-pharma-generics-need-supreme-court-end-patent-absurdity/</guid>
+      <pubDate>Mon, 08 Dec 2025 20:18:32 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Nvidia reportedly wins H200 exports to China — US Department of Commerce set to ease restrictions for full Hopper AI GPU</title>
+      <link>https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-wins-h200-exports-to-china-us-department-of-commerce-set-to-ease-restrictions-for-full-hopper-ai-gpu</link>
+      <description>The U.S. government is reportedly preparing to let Nvidia ship its H200 accelerators to China, a move that could restore Nvidia’s influence in the Chinese AI market and reinforce CUDA’s dominance, but the question is if Beijing agrees to accept this hardware.</description>
+      <guid isPermaLink="false">https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-wins-h200-exports-to-china-us-department-of-commerce-set-to-ease-restrictions-for-full-hopper-ai-gpu</guid>
+      <pubDate>Mon, 08 Dec 2025 20:08:21 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Navitas and Cyient partner to accelerate GaN adoption in India</title>
+      <link>https://www.semiconductor-today.com/news_items/2025/dec/navitas-081225.shtml</link>
+      <description>Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN) and GeneSiC silicon carbide (SiC) power semiconductors — and ASIC/ASSP and power solutions provider Cyient Semiconductor Pte Ltd of Hyderabad, India have announced a strategic long-term partnership intended to advance the adoption of GaN technology in India and establish a complete end-to-end GaN ecosystem...</description>
+      <guid isPermaLink="false">https://www.semiconductor-today.com/news_items/2025/dec/navitas-081225.shtml</guid>
+      <pubDate>Mon, 08 Dec 2025 20:08:15 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Nvidia Set to Win US Approval to Export H200 AI Chips to China</title>
+      <link>https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china</link>
+      <description>The Trump administration is poised to allow Nvidia Corp. to sell its H200 artificial intelligence chip to China, according to people familiar with the matter, a move that would mark a major lobbying win for the world’s most valuable company and potentially let it regain billions of dollars of business lost in a key global market.</description>
+      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china</guid>
+      <pubDate>Mon, 08 Dec 2025 20:07:56 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>TSMC’s Advanced Packaging Production Lines Are So ‘Bottled Up’ That the Firm Is Now Looking to Outsource Orders to Meet Demand</title>
+      <link>https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;419&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/11/TSMC-1-728x419.jpg&quot; alt=&quot;TSMC could surpass Apple in market value by 2030, predicts analyst&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;TSMC&apos;s advanced packaging capacity is &apos;fully booked&apos; at the moment, which is a huge concern for the AI industry, but it appears that the Taiwan giant has a strategy in sight. TSMC&apos;s &apos;CoWoS&apos; Production Lines Have No Room For Further Orders, As the Firm Now Relies on Outsourcing Advanced packaging has been the &apos;holy grail&apos; for manufacturers when it comes to combining multiple chiplets to scale up the performance of their AI chips, which is why solutions like TSMC&apos;s CoWoS are experiencing peak interest from companies such as NVIDIA, AMD, Google, Apple, MediaTek, and many more. However, based on supply […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/&quot;&gt;https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://wccftech.com/tsmcs-advanced-packaging-production-lines-are-so-bottled-up-that-the-firm-is-now-looking-to-outsource-orders/</guid>
+      <pubDate>Mon, 08 Dec 2025 19:27:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>16-Core Hygon C86 CPU Reportedly Boasts 3.0 GHz Boost Clock And 95 W TDP</title>
+      <link>https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;410&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/12/Hygon-C86-4G-CPU-728x410.jpg&quot; alt=&quot;Two Hygon processors are displayed with the text &apos;3.0 GHz&apos; against a green wavy background.&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;X86 instruction-compatible Hygon C86 CPU that reportedly delivered on par performance with Intel&apos;s 13th gen processors in MT workloads, can boost up to 3.0 GHz. Leak Suggests Hygon C86 Could Hit 3.0 GHz Boost and 95 W TDP, Making it a True-Efficiency+Performance x86 Contender The last time we looked at the Chinese-made Hygon C86 series, it appeared inside the Thunderobot gaming PCs. The report showcased performance numbers that matched Intel Raptor Lake&apos;s Core i7 SKUs in multi-threaded benchmarks. Despite weaker single-threaded results, the chip demonstrated China&apos;s domestic x86 designs that are evolving quite fast enough to compete with recent processor […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/&quot;&gt;https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://wccftech.com/16-core-hygon-c86-cpu-reportedly-boasts-3-0-ghz-boost-clock-and-95-tdp/</guid>
+      <pubDate>Mon, 08 Dec 2025 19:27:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Apple Chip Guru, Johny Srouji, Declares He Is Not Planning On “Leaving Anytime Soon”</title>
+      <link>https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;485&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/12/Apple-Johny-Srouji-1-728x485.jpg&quot; alt=&quot;A person in a blue shirt walks through a modern, high-tech laboratory with multiple workstations and computer screens.&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In a dramatic turn of events, Apple&apos;s head of custom silicon and the Senior Vice President of its Hardware Technologies division, Johny Srouji, has publicly declared now that he would stay put at Apple, as per the leaked anecdote of a meeting earlier today. Johny Srouji: &quot;I love my team, and I love my job at Apple&quot; Bloomberg&apos;s Mark Gurman is out with a scoop today, detailing the minutes of a meeting at Apple earlier today, where the Cupertino giant&apos;s head of custom silicon, Johny Srouji, has reportedly renounced any intention of leaving Apple by declaring: &quot;I love my team, […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/&quot;&gt;https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://wccftech.com/apple-chip-guru-johny-srouji-declares-he-is-not-planning-on-leaving-anytime-soon/</guid>
+      <pubDate>Mon, 08 Dec 2025 19:27:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
