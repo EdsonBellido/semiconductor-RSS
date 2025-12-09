@@ -5,25 +5,16 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 02:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 03:00:17 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>February report from researcher found Chinese KVM had undocumented microphone and communicated with China-based servers, but many of the issues are now addressed [Updated]</title>
-      <link>https://www.tomshardware.com/tech-industry/cyber-security/researcher-finds-undocumented-microphone-and-major-security-flaws-in-sipeed-nanokvm</link>
-      <description>A Slovenian security researcher published an analysis of Sipeed’s NanoKVM in Feburary that raises far-reaching concerns about the €30-€60 remote management device.</description>
-      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/cyber-security/researcher-finds-undocumented-microphone-and-major-security-flaws-in-sipeed-nanokvm</guid>
-      <pubDate>Tue, 09 Dec 2025 02:29:03 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Mercedes shifts from “voice commands” to “agentic copilots.”</title>
-      <link>https://www.rdworldonline.com/mercedes-shifts-from-voice-commands-to-agentic-copilots/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.rdworldonline.com/wp-content/uploads/2025/12/2022-MBUX-HYPERSCREEN-HERO-DR.webp&quot; alt=&quot;2022-MBUX-HYPERSCREEN-HERO-DR.webp&quot;&gt;&lt;/p&gt;&lt;p&gt;Mercedes-Benz is turning its dashboard assistant into an AI co-pilot. A new MBUX upgrade featuring Google’s Gemini AI moves beyond voice commands to conversational, context-aware trip help. The move starts with the upcoming CLA model and slated for wider rollout. For most drivers, in-car voice assistants have been glorified remote controls: set the temperature, call…&lt;/p&gt;  
-&lt;p&gt;The post &lt;a href=&quot;https://www.rdworldonline.com/mercedes-shifts-from-voice-commands-to-agentic-copilots/&quot;&gt;Mercedes shifts from “voice commands” to “agentic copilots.”&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.rdworldonline.com&quot;&gt;Research &amp;amp; Development World&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.rdworldonline.com/mercedes-shifts-from-voice-commands-to-agentic-copilots/</guid>
-      <pubDate>Tue, 09 Dec 2025 02:24:20 GMT</pubDate>
+      <title>Nvidia Wins Approval to Sell H200 Chips in China</title>
+      <link>https://www.bloomberg.com/news/videos/2025-12-09/nvidia-wins-approval-to-sell-h200-chips-in-china-video</link>
+      <description>President Donald Trump granted Nvidia Corp. permission to ship its H200 artificial intelligence chip to China in exchange for a 25% surcharge. Bloomberg&apos;s Annabelle Droulers explains. (Source: Bloomberg)</description>
+      <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-09/nvidia-wins-approval-to-sell-h200-chips-in-china-video</guid>
+      <pubDate>Tue, 09 Dec 2025 02:39:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
