@@ -5,24 +5,16 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 09:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 10:00:20 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Samsung Electro-Mechanics to Boost MLCC Output Amid AI Semiconductor Boom</title>
-      <link>https://www.businesskorea.co.kr/news/articleView.html?idxno=258404</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.businesskorea.co.kr/news/thumbnail/202512/258404_263983_527_v150.jpg&quot; alt=&quot;258404_263983_527_v150.jpg&quot;&gt;&lt;/p&gt;As global demand for artificial intelligence (AI) semiconductors surges, Samsung Electro-Mechanics’ factory utilization rates for producing multi-layer ceramic capacitors (MLCC), a key component, have reached virtually 100 percent. Samsung Electro-Mechanics, riding the AI semiconductor super cycle,</description>
-      <guid isPermaLink="false">https://www.businesskorea.co.kr/news/articleView.html?idxno=258404</guid>
-      <pubDate>Tue, 09 Dec 2025 09:24:08 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Jiangyin Concludes Golden Autumn Investment Month with 208 Projects Totaling RMB68 Billion</title>
-      <link>https://www.prnewswire.com/news-releases/jiangyin-concludes-golden-autumn-investment-month-with-208-projects-totaling-rmb68-billion-302636365.html</link>
-      <description>&lt;div&gt; &lt;p&gt;&lt;span&gt;JIANGYIN, China&lt;/span&gt;, &lt;span&gt;Dec. 9, 2025&lt;/span&gt; /PRNewswire/ -- The 2025 Jiangyin Symposium on Economic and Trade Cooperation was held on December 6, hosted by the Jiangyin Municipal Committee and Government. Marking the culmination of this year&apos;s Golden Autumn Investment Month, which featured more than 50 promotional events, the symposium resulted in the signing of 208 projects with a combined investment value of RMB68 billion. Since the start of the 14th Five-Year Plan period, Jiangyin has secured 321 major industrial projects, each valued at more than RMB100 million, representing a total investment of RMB262.7 billion. These projects span key sectors including integrated circuits, next-generation information technology, advanced manufacturing, and clean energy.&lt;/p&gt; &lt;p&gt; &lt;span&gt; &lt;a href=&quot;https://www.prnewswire.com/#continue-jump&quot;&gt;Continue Reading &lt;br&gt; &lt;i&gt;&lt;/i&gt; &lt;/a&gt; &lt;/span&gt; &lt;/p&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;p&gt; &lt;/p&gt; &lt;div&gt; &lt;a href=&quot;https://www.prnewswire.com/#&quot;&gt;&lt;img alt=&quot;A view of Jiangyin City&quot; src=&quot;https://mma.prnewswire.com/media/2840507/image.jpg?w=500&quot;&gt;&lt;/a&gt; &lt;span&gt;&lt;/span&gt; &lt;/div&gt;  A view of Jiangyin City   &lt;p&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;p&gt;Jung Ui-joon, Chief Representative of Wonik IPS, attended with a US$150 million investment project scheduled to begin production in 2026. &quot;Jiangyin offers compelling advantages with its strong infrastructure, skilled workforce, and favorable policies, making it a dependable choice for investment,&quot; he noted. &lt;/p&gt; &lt;p&gt;Giordana Davide, President of Jiangsu TianGong Precision Machinery Manufacturing Co., Ltd., highlighted Jiangyin&apos;s supply chain strengths. &quot;Our key raw material supplier, Citic Pacific Special Steel Group Co., Ltd., a leading producer in the specialty steel industry, is based in Jiangyin. This proximity ensures exceptional stability and consistency for our manufacturing operations,&quot; Davide said. &lt;/p&gt; &lt;p&gt;During the symposium, Jiangyin joined with Tsinghua University and other domestic academic and research institutions to form the &quot;Sci-tech Innovations in Jiangyin&quot; University Alliance for Technology Transfer and Commercialization. The alliance aims to develop new models for translating research and technological breakthroughs into commercial applications.. &lt;/p&gt;&lt;p&gt;With its specialized industrial parks serving as strategic platforms, Jiangyin is cultivating modern industrial clusters in clean energy, biopharmaceuticals, and AI-driven manufacturing. The Jiangyin Carbon Neutrality Technology Industrial Park has begun forming an integrated energy ecosystem spanning wind power, solar, hydrogen, and energy storage, supported by port logistics and a comprehensive bonded zone. Meanwhile, the Jiangyin Microelectronics Industrial Park has launched multiple industry funds focused on emerging industries, with total assets under management exceeding RMB6.5 billion. These funds are designed to provide end-to-end capital support for companies across their full development trajectory, from startup through initial public offering. &lt;/p&gt;&lt;p&gt;SOURCE Jiangyin Municipal Committee and Government&lt;/p&gt;&lt;img alt=&quot;&quot; src=&quot;https://rt.prnewswire.com/rt.gif?NewsItemId=CN41261&amp;amp;Transmission_Id=202512090421PR_NEWS_USPR_____CN41261&amp;amp;DateId=20251209&quot;&gt; &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/jiangyin-concludes-golden-autumn-investment-month-with-208-projects-totaling-rmb68-billion-302636365.html</guid>
-      <pubDate>Tue, 09 Dec 2025 09:22:27 GMT</pubDate>
+      <title>Data centers: a view from the inside</title>
+      <link>https://techxplore.com/news/2025-12-centers-view.html</link>
+      <description>The expansion of data centers to power the AI boom has more people wondering: what exactly is in a data center?</description>
+      <guid isPermaLink="false">https://techxplore.com/news/2025-12-centers-view.html</guid>
+      <pubDate>Tue, 09 Dec 2025 09:35:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
