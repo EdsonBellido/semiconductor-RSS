@@ -5,42 +5,24 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 19:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 19:30:38 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Google May Be Forced to Change the Name of Its AI Chips as Tachyum Is Legally Pursuing the Company Over the “TPU” Trademark</title>
-      <link>https://wccftech.com/google-may-be-forced-to-change-the-name-of-its-ai-chips/</link>
-      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/google-may-be-forced-to-change-the-name-of-its-ai-chips/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;410&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/04/Introducing-7th-Generation-TPUs_-Ironwood-0-39-screenshot-728x410.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Well, Google&apos;s TPUs have gained immense market spotlight, but it appears that the firm might face a &apos;legal&apos; trouble, which could force them to change the name of their AI chips. Tachyum Claims That the &apos;TPU&apos; Trademark Is Exclusive For Its Tech Stack, And Says to Challenge Google On It Google&apos;s custom silicon has been the talk of the town when it comes to ASICs dominating a particular AI application, and out of all projects out there, TPUs have gained the most traction. But, this market spotlight has turned out to be troublesome for Google, as the AI/HPC solutions provider […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/google-may-be-forced-to-change-the-name-of-its-ai-chips/&quot;&gt;https://wccftech.com/google-may-be-forced-to-change-the-name-of-its-ai-chips/&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://wccftech.com/google-may-be-forced-to-change-the-name-of-its-ai-chips/</guid>
-      <pubDate>Tue, 09 Dec 2025 18:57:11 GMT</pubDate>
+      <title>Cramer sees any Nvidia sales of H200s in China as a &apos;pure bonus,&apos; says the stock should be higher</title>
+      <link>https://www.cnbc.com/2025/12/09/cramer-sees-any-nvidia-sales-of-h200-chips-in-china-as-a-pure-bonus.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://image.cnbcfm.com/api/v1/image/108174923-1753172600849-gettyimages-2224782286-AFP_66Z86KE.jpeg?v=1765305651&amp;amp;w=1920&amp;amp;h=1080&quot; alt=&quot;108174923-1753172600849-gettyimages-2224&quot;&gt;&lt;/p&gt;Wall Street fails to see the benefit of Nvidia finally getting the green light from the U.S. to sell its second-best chips in China.</description>
+      <guid isPermaLink="false">https://www.cnbc.com/2025/12/09/cramer-sees-any-nvidia-sales-of-h200-chips-in-china-as-a-pure-bonus.html</guid>
+      <pubDate>Tue, 09 Dec 2025 19:15:15 GMT</pubDate>
     </item>
 
     <item>
-      <title>AMD Launches EPYC 2005 “Zen 5” CPUs: Up To 16 Cores, 45-75W TDPs, Higher Clock Speeds Vs Competing Intel Xeon Embedded Chips</title>
-      <link>https://wccftech.com/amd-launches-epyc-2005-zen-5-cpus-up-to-16-cores-45-75w-tdp-higher-clocks/</link>
-      <description>&lt;p&gt;&lt;a href=&quot;https://wccftech.com/amd-launches-epyc-2005-zen-5-cpus-up-to-16-cores-45-75w-tdp-higher-clocks/&quot;&gt;&lt;img width=&quot;728&quot; height=&quot;410&quot; src=&quot;https://cdn.wccftech.com/wp-content/uploads/2025/12/AMD-EPYC-2005-Embedded-CPUs-_1-728x410.jpg&quot; alt=&quot;An AMD EPYC Embedded processor with visible circuitry and components on a blue circuit board.&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;AMD has introduced its latest EPYC 2005 Embedded &quot;Zen 5&quot; CPU lineup, featuring up to 16 cores and 45-75W TDP. AMD EPYC 2005 Embedded CPUs Takcle Intel Xeon 6000-B Series With Up To 16 &quot;Zen 5&quot; Cores, 4.5 GHz Clocks &amp;amp; Smaller Package Sizes Press Release: AI-driven workloads are transforming the performance and efficiency requirements of embedded infrastructure systems. From networking switches, routers, and DPU control planes to cold cloud storage, aerospace, and robotics applications, today’s embedded computing system architects must deliver higher compute density, energy efficiency, and extended longevity—within smaller, power-constrained designs. AMD is addressing these evolving requirements with […]&lt;/p&gt;&lt;p&gt;Read full article at &lt;a href=&quot;https://wccftech.com/amd-launches-epyc-2005-zen-5-cpus-up-to-16-cores-45-75w-tdp-higher-clocks/&quot;&gt;https://wccftech.com/amd-launches-epyc-2005-zen-5-cpus-up-to-16-cores-45-75w-tdp-higher-clocks/&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://wccftech.com/amd-launches-epyc-2005-zen-5-cpus-up-to-16-cores-45-75w-tdp-higher-clocks/</guid>
-      <pubDate>Tue, 09 Dec 2025 18:57:11 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>SLB to Spend $30 Million on Data-Center Manufacturing Expansion</title>
-      <link>https://www.bloomberg.com/news/articles/2025-12-09/slb-to-spend-30-million-on-data-center-manufacturing-expansion</link>
-      <description>SLB is investing $30 million to expand operations for a manufacturing hub in Shreveport, Louisiana, broadening its footprint for producing digital and data center equipment.</description>
-      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/slb-to-spend-30-million-on-data-center-manufacturing-expansion</guid>
-      <pubDate>Tue, 09 Dec 2025 18:41:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>AI-Driven DRC Productivity Optimization: Insights from Siemens EDA’s 2025 OIP Presentation</title>
-      <link>https://semiwiki.com/eda/363603-ai-driven-drc-productivity-optimization-insights-from-siemens-edas-2025-oip-presentation/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://semiwiki.com/wp-content/uploads/2025/11/Siemens-AMD-AI-OIP-Presentation-2025.jpg&quot; alt=&quot;Siemens-AMD-AI-OIP-Presentation-2025.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;  
-&lt;p&gt;In the rapidly evolving semiconductor industry, Design Rule Checking (DRC) remains a critical bottleneck in chip design workflows. Siemens EDA’s presentation at the 2025 &lt;a href=&quot;https://www.tsmc.com/english/dedicatedFoundry/oip&quot;&gt;TSMC Open Innovation Platform Forum&lt;/a&gt;, titled “AI-Driven DRC Productivity Optimization,” showcases how artificial intelligence … &lt;a href=&quot;https://semiwiki.com/eda/363603-ai-driven-drc-productivity-optimization-insights-from-siemens-edas-2025-oip-presentation/&quot;&gt;Read More &lt;/a&gt;&lt;/p&gt;  
-&lt;p&gt;The post &lt;a href=&quot;https://semiwiki.com/eda/363603-ai-driven-drc-productivity-optimization-insights-from-siemens-edas-2025-oip-presentation/&quot;&gt;AI-Driven DRC Productivity Optimization: Insights from Siemens EDA’s 2025 OIP Presentation&lt;/a&gt; appeared first on &lt;a href=&quot;https://semiwiki.com&quot;&gt;SemiWiki&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://semiwiki.com/eda/363603-ai-driven-drc-productivity-optimization-insights-from-siemens-edas-2025-oip-presentation/</guid>
-      <pubDate>Tue, 09 Dec 2025 18:32:49 GMT</pubDate>
+      <title>Intel&apos;s upcoming Core Ultra X9 388H is up to 8.7% faster for 1T perf than Ryzen AI Max+ 395 — Panther Lake gains significant ground on Strix Halo in early Geekbench leak</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/intels-upcoming-core-ultra-x9-388h-is-up-to-8-7-percent-faster-for-1t-perf-than-ryzen-ai-max-395-panther-lake-gains-significant-ground-on-strix-halo-in-early-geekbench-leak</link>
+      <description>Intel&apos;s Panther Lake family is still awaiting release, but the possible flagship chip of the bunch has been spotted on Geekbench. The Core Ultra X9 388H scores 3,057 points in the single-core test and 17,687 points in the multi-core test, racing past its Arrow Lake-H predecessor and AMD&apos;s Strix Halo.</description>
+      <guid isPermaLink="false">https://www.tomshardware.com/pc-components/cpus/intels-upcoming-core-ultra-x9-388h-is-up-to-8-7-percent-faster-for-1t-perf-than-ryzen-ai-max-395-panther-lake-gains-significant-ground-on-strix-halo-in-early-geekbench-leak</guid>
+      <pubDate>Tue, 09 Dec 2025 19:07:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
