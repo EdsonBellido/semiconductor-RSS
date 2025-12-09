@@ -5,32 +5,33 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 11:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 12:00:25 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Trump’s Nvidia Shift Hands Xi Opening on National Security Curbs</title>
-      <link>https://www.bloomberg.com/news/articles/2025-12-09/trump-s-nvidia-shift-hands-xi-opening-on-national-security-curbs</link>
-      <description>Donald Trump’s decision to allow Nvidia Corp. to sell advanced chips to China marks more than just a shift in US tech policy. It also raises questions about how far he’ll go to steady ties with Xi Jinping.</description>
-      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/trump-s-nvidia-shift-hands-xi-opening-on-national-security-curbs</guid>
-      <pubDate>Tue, 09 Dec 2025 11:17:25 GMT</pubDate>
+      <title>Canada Open for AI Data Centers After Carney’s Energy Shift, Power CEO Says</title>
+      <link>https://www.bloomberg.com/news/articles/2025-12-09/canada-open-for-ai-data-centers-after-carney-shift-on-energy-capital-power</link>
+      <description>Capital Power Corp.’s top executive says it will become possible to build new gas-fired power plants to support large data centers in Alberta after the Canadian government relaxed environmental standards for electricity.</description>
+      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/canada-open-for-ai-data-centers-after-carney-shift-on-energy-capital-power</guid>
+      <pubDate>Tue, 09 Dec 2025 11:47:26 GMT</pubDate>
     </item>
 
     <item>
-      <title>RAM is ruining everything</title>
-      <link>https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones</link>
+      <title>Trump says Nvidia can sell more powerful AI chips to China</title>
+      <link>https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us</link>
       <description> 
  
-&lt;img alt=&quot;&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&amp;amp;strip=all&amp;amp;crop=0,0,100,100&quot;&gt; 
+&lt;img alt=&quot;&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;amp;strip=all&amp;amp;crop=0,0,100,100&quot;&gt; 
 	 
 		 
  
-&lt;p&gt;Memory suppliers just blew a hole in the PC gaming industry - and they&apos;re about to do the same to everything else. For weeks, PC enthusiasts have borne the brunt of skyrocketing memory prices, but the shockwaves will soon impact a wider range of products as suppliers pour resources into a far bigger and more lucrative endeavor: AI.&lt;/p&gt; 
-&lt;p&gt;The biggest names in the AI industry are buying up DRAM memory for their sprawling data centers, and memory makers are prioritizing their demands over everyone else&apos;s. DRAM is embedded &quot;in every part of our digital society today,&quot; Jeff Janukowicz, research VP at IDC, tells &lt;em&gt;The Verge&lt;/em&gt;. That&apos;s everything from laptop …&lt;/p&gt; 
-&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones</guid>
-      <pubDate>Tue, 09 Dec 2025 11:04:04 GMT</pubDate>
+&lt;p&gt;Nvidia has received White House approval to start exporting its H200 AI GPU chips to &quot;approved customers&quot; in China and other countries, according to President Donald Trump. In &lt;a href=&quot;https://truthsocial.com/@realDonaldTrump/posts/115686072737425841&quot;&gt;a Truth Social post&lt;/a&gt; on Monday, Trump said the deal comes with &quot;conditions that allow for continued strong national security,&quot; and that the US will take a 25 percent cut of the GPU sales - higher than the &lt;a href=&quot;https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china&quot;&gt;15 percent cut&lt;/a&gt; that was demanded in August.&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date&quot;&gt;Nvidia&apos;s H200 chips&lt;/a&gt; are an upgrade to the scaled-down H20 chips that Nvidia is already permitted to sell in China, but are less powerful than its latest &lt;a href=&quot;https://www.theverge.com/news/631835/nvidia-blackwell-ultra-ai-chip-gb300&quot;&gt;flagship Blackwell GPUs&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;&quot;This policy will support American jobs, stre …&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us</guid>
+      <pubDate>Tue, 09 Dec 2025 11:34:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
