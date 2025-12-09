@@ -5,24 +5,45 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 19:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 20:00:47 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Cramer sees any Nvidia sales of H200s in China as a &apos;pure bonus,&apos; says the stock should be higher</title>
-      <link>https://www.cnbc.com/2025/12/09/cramer-sees-any-nvidia-sales-of-h200-chips-in-china-as-a-pure-bonus.html</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://image.cnbcfm.com/api/v1/image/108174923-1753172600849-gettyimages-2224782286-AFP_66Z86KE.jpeg?v=1765305651&amp;amp;w=1920&amp;amp;h=1080&quot; alt=&quot;108174923-1753172600849-gettyimages-2224&quot;&gt;&lt;/p&gt;Wall Street fails to see the benefit of Nvidia finally getting the green light from the U.S. to sell its second-best chips in China.</description>
-      <guid isPermaLink="false">https://www.cnbc.com/2025/12/09/cramer-sees-any-nvidia-sales-of-h200-chips-in-china-as-a-pure-bonus.html</guid>
-      <pubDate>Tue, 09 Dec 2025 19:15:15 GMT</pubDate>
+      <title>Artificial photosynthesis catalyst converts carbon dioxide into fuel using sunlight</title>
+      <link>https://phys.org/news/2025-12-artificial-photosynthesis-catalyst-carbon-dioxide.html</link>
+      <description>A joint research team has developed a highly efficient photocatalyst that can convert carbon dioxide into the high-value-added fuel, methane, using sunlight, while explaining its operating principles. The work is published in the journal ACS Catalysis.</description>
+      <guid isPermaLink="false">https://phys.org/news/2025-12-artificial-photosynthesis-catalyst-carbon-dioxide.html</guid>
+      <pubDate>Tue, 09 Dec 2025 19:58:10 GMT</pubDate>
     </item>
 
     <item>
-      <title>Intel&apos;s upcoming Core Ultra X9 388H is up to 8.7% faster for 1T perf than Ryzen AI Max+ 395 — Panther Lake gains significant ground on Strix Halo in early Geekbench leak</title>
-      <link>https://www.tomshardware.com/pc-components/cpus/intels-upcoming-core-ultra-x9-388h-is-up-to-8-7-percent-faster-for-1t-perf-than-ryzen-ai-max-395-panther-lake-gains-significant-ground-on-strix-halo-in-early-geekbench-leak</link>
-      <description>Intel&apos;s Panther Lake family is still awaiting release, but the possible flagship chip of the bunch has been spotted on Geekbench. The Core Ultra X9 388H scores 3,057 points in the single-core test and 17,687 points in the multi-core test, racing past its Arrow Lake-H predecessor and AMD&apos;s Strix Halo.</description>
-      <guid isPermaLink="false">https://www.tomshardware.com/pc-components/cpus/intels-upcoming-core-ultra-x9-388h-is-up-to-8-7-percent-faster-for-1t-perf-than-ryzen-ai-max-395-panther-lake-gains-significant-ground-on-strix-halo-in-early-geekbench-leak</guid>
-      <pubDate>Tue, 09 Dec 2025 19:07:24 GMT</pubDate>
+      <title>Durable catalyst shields itself for affordable green hydrogen production</title>
+      <link>https://phys.org/news/2025-12-durable-catalyst-shields-green-hydrogen.html</link>
+      <description>An international research team led by Professor Philip C.Y. Chow at The University of Hong Kong (HKU) has unveiled a new catalyst that overcomes a major challenge in producing green hydrogen at scale. This innovation makes the process of producing oxygen efficiently and reliably in the harsh acidic environment used by today&apos;s most promising industrial electrolyzers.</description>
+      <guid isPermaLink="false">https://phys.org/news/2025-12-durable-catalyst-shields-green-hydrogen.html</guid>
+      <pubDate>Tue, 09 Dec 2025 19:47:41 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Trump blessing Nvidia AI chip sales to China gets chilly reception from GOP</title>
+      <link>https://www.cnbc.com/2025/12/09/trump-nvidia-china-ai-chips-gop-congress.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://image.cnbcfm.com/api/v1/image/108139104-1746048626472-gettyimages-2212178893-AFP_444Y2UG.jpeg?v=1765299307&amp;amp;w=1920&amp;amp;h=1080&quot; alt=&quot;108139104-1746048626472-gettyimages-2212&quot;&gt;&lt;/p&gt;Trump said Chinese President Xi Jinping &quot;responded positively&quot; to the proposal to let Nvidia sell H200 AI chips on condition that the U.S. gets 25% of revenue.</description>
+      <guid isPermaLink="false">https://www.cnbc.com/2025/12/09/trump-nvidia-china-ai-chips-gop-congress.html</guid>
+      <pubDate>Tue, 09 Dec 2025 19:44:16 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>HW Security: Inner Product Masking With Fault Detection Via ISE (KU Leuven, NUS, Rambus)</title>
+      <link>https://semiengineering.com/hw-security-inner-product-masking-with-fault-detection-via-ise-ku-leuven-nus-rambus/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://semiengineering.com/wp-content/uploads/Black-White-lock-01-21-21AdobeStock_216445859-scaled.jpeg&quot; alt=&quot;Black-White-lock-01-21-21AdobeStock_2164&quot;&gt;&lt;/p&gt;&lt;p&gt;A new technical paper titled “Extending and Accelerating Inner Product Masking with Fault Detection via Instruction Set Extension” was published by researchers at KU Leuven, National University of Singapore, and Rambus.&lt;/p&gt;  
+&lt;p&gt;&lt;strong&gt;Abstract &lt;/strong&gt;&lt;/p&gt;  
+&lt;p&gt;“Inner product masking is a well-studied masking countermeasure against side-channel attacks. IPM-FD further extends the IPM scheme with fault detection capabilities. However, implementing IPM-FD in software especially on embedded devices results in high computational overhead. Therefore, in this work we perform a detailed analysis of all building blocks for IPMFD scheme and propose a Masked Processing Unit to accelerate all operations, for example multiplication and IPM-FD specific Homogenization. We can then offload these computational extensive operations with dedicated hardware support. With only 4.05% and 4.01% increase in Look-Up Tables and Flip-Flops (Random Number Generator excluded), respectively, compared with baseline cv32e40p RISC-V core, we can achieve up to 16.55× speed-up factor with optimal configuration. We then practically evaluate the side-channel security via uni- and bivariate Test Vector Leakage Assessment which exhibits no leakage. Finally, we use two different methods to simulate the injected fault and confirm the fault detection capability of up to &lt;i&gt;k&lt;/i&gt; − 1 faults, with &lt;i&gt;k&lt;/i&gt; being the replication factor.”&lt;/p&gt;  
+&lt;p&gt;Find the &lt;a href=&quot;https://eprint.iacr.org/2025/2165&quot;&gt;technical paper here&lt;/a&gt;. December 2025.&lt;/p&gt;  
+&lt;p&gt;Cui, Songqiao, Geng Luo, Junhan Bao, Josep Balasch, and Ingrid Verbauwhede. “Extending and Accelerating Inner Product Masking with Fault Detection via Instruction Set Extension.” Cryptology ePrint Archive (2025).&lt;/p&gt;  
+&lt;p&gt;The post &lt;a href=&quot;https://semiengineering.com/hw-security-inner-product-masking-with-fault-detection-via-ise-ku-leuven-nus-rambus/&quot;&gt;HW Security: Inner Product Masking With Fault Detection Via ISE (KU Leuven, NUS, Rambus)&lt;/a&gt; appeared first on &lt;a href=&quot;https://semiengineering.com&quot;&gt;Semiconductor Engineering&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://semiengineering.com/hw-security-inner-product-masking-with-fault-detection-via-ise-ku-leuven-nus-rambus/</guid>
+      <pubDate>Tue, 09 Dec 2025 19:38:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
