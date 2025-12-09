@@ -5,33 +5,42 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 12:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 12:30:36 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Canada Open for AI Data Centers After Carney’s Energy Shift, Power CEO Says</title>
-      <link>https://www.bloomberg.com/news/articles/2025-12-09/canada-open-for-ai-data-centers-after-carney-shift-on-energy-capital-power</link>
-      <description>Capital Power Corp.’s top executive says it will become possible to build new gas-fired power plants to support large data centers in Alberta after the Canadian government relaxed environmental standards for electricity.</description>
-      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/canada-open-for-ai-data-centers-after-carney-shift-on-energy-capital-power</guid>
-      <pubDate>Tue, 09 Dec 2025 11:47:26 GMT</pubDate>
+      <title>University of Saskatchewan Selects QuickLogic eFPGA HardIP for StarRISC MCU</title>
+      <link>https://www.prnewswire.com/news-releases/university-of-saskatchewan-selects-quicklogic-efpga-hardip-for-starrisc-mcu-302636217.html</link>
+      <description>&lt;div&gt; &lt;p&gt;&lt;i&gt;- Selection expands QuickLogic&apos;s role in radiation-tolerant open-hardware innovation for space and research applications&lt;br&gt;&lt;/i&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;SAN JOSE, Calif.&lt;/span&gt;, &lt;span&gt;Dec. 9, 2025&lt;/span&gt; /PRNewswire/ --  QuickLogic Corporation (NASDAQ: &lt;a href=&quot;https://www.prnewswire.com/#financial-modal&quot;&gt;QUIK&lt;/a&gt;), a developer of embedded FPGA (eFPGA) Hard IP and ruggedized FPGAs, announced today that its eFPGA Hard IP has been selected by the University of Saskatchewan&apos;s  Semiconductor Technology and Rad-Effects Research Lab (STARR-Lab) to support personalization of its next generation StarRISC Rad-Tolerant RISC-V Microcontroller. The project is also partially supported by Globalfoundries&apos; University Research Program and will be taped out with GF 12nm FinFET  technology node. By integrating eFPGA technology into the StarRISC platform, researchers and engineers will be able to prototype and evaluate custom logic blocks, accelerators, and mission-specific algorithms on a radiation-tolerant device designed for space and high-reliability environments.&lt;/p&gt; 
+&lt;p&gt;&quot;STARR-Lab has worked with QuickLogic as members of the Open Hardware Group for several years,&quot; said Dr. Li Chen, Professor of Electrical and Computer Engineering and supervisor for the STARR Lab.  &quot;We&apos;re excited to add eFPGA  capability to the next StarRISC Microcontroller, giving users the flexibility to explore new functions, accelerators, and ideas limited only by their imagination.&quot;&lt;/p&gt; 
+&lt;p&gt;&quot;The impressive work that Professor Chen and his team have done in creating a rad-tolerant RISC-V MCU with 22nm FDSOI node demonstrating no proton upsets and resilience to very high LET ions, aligns closely with QuickLogic&apos;s investment and focus in supporting the space community with eFPGA IP,&quot; said Mao Wang, senior director of product marketing at QuickLogic.  &quot;We appreciate the STARR-Lab team choosing to incorporate our eFPGA Hard IP into their next design. This will give teams a new platform to experiment with custom logic on radiation-tolerant microcontroller.&quot;&lt;/p&gt; 
+&lt;p&gt;QuickLogic can deliver &lt;a href=&quot;https://edge.prnewswire.com/c/link/?t=0&amp;amp;l=en&amp;amp;o=4575400-1&amp;amp;h=353704479&amp;amp;u=https%3A%2F%2Fwww.quicklogic.com%2Fefpga-ip%2Fefpga-ip-generator%2F&amp;amp;a=eFPGA+Hard+IP&quot;&gt;eFPGA Hard IP&lt;/a&gt; on any new process node within four to six months, including radiation tolerant implementations, supporting applications from high-performance data processing to low-power, battery-operated devices. Once a fab-specific Hard IP is established, customer-specific variants can be delivered in just weeks, enabled by QuickLogic&apos;s proprietary Australis IP Generator. QuickLogic eFPGA IP is supported by two FPGA tool suites: Aurora, a 100% open-source version, and Aurora Pro, which integrates Synopsys® Synplify® FPGA Logic Synthesis.&lt;/p&gt; 
+&lt;p&gt;For more information on QuickLogic&apos;s eFPGA IP licensing and other solutions, please visit &lt;a href=&quot;https://edge.prnewswire.com/c/link/?t=0&amp;amp;l=en&amp;amp;o=4575400-1&amp;amp;h=465605097&amp;amp;u=http%3A%2F%2Fwww.quicklogic.com%2F&amp;amp;a=www.quicklogic.com&quot;&gt;www.quicklogic.com&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;b&gt;&lt;i&gt;About STARR-Labs&lt;br&gt;&lt;/i&gt;&lt;/b&gt;The Semiconductor Technology and Rad-Effects Research Lab (STARR-Lab) is located at the University of Saskatchewan in Canada. We are a diverse group of students, researchers, and faculty who study radiation-effects in microelectronics, device reliabilty, and more. Our research group takes ideas from conception, through to design and implemenation, ending with real-world testing. Over the years we have collected a wealth of experience in semiconductor design and testing.&lt;/p&gt; 
+&lt;p&gt;&lt;b&gt;About QuickLogic&lt;/b&gt; &lt;br&gt;QuickLogic Corporation is a fabless semiconductor company specializing in eFPGA Hard IP, discrete FPGAs, and endpoint AI solutions. QuickLogic&apos;s unique approach combines cutting-edge technology with open-source tools to deliver highly customizable, low-power solutions for industrial, aerospace, consumer, and computing markets. For more information, visit &lt;a href=&quot;https://edge.prnewswire.com/c/link/?t=0&amp;amp;l=en&amp;amp;o=4575400-1&amp;amp;h=465605097&amp;amp;u=http%3A%2F%2Fwww.quicklogic.com%2F&amp;amp;a=www.quicklogic.com&quot;&gt;www.quicklogic.com&lt;/a&gt;. &lt;/p&gt; 
+&lt;p&gt;&lt;i&gt;QuickLogic and logo are registered trademarks of QuickLogic. All other trademarks are the property of their respective holders and should be treated as such.&lt;/i&gt;&lt;/p&gt; 
+&lt;p&gt;SOURCE QuickLogic Corporation&lt;/p&gt; 
+&lt;img alt=&quot;&quot; src=&quot;https://rt.prnewswire.com/rt.gif?NewsItemId=SF42206&amp;amp;Transmission_Id=202512090715PR_NEWS_USPR_____SF42206&amp;amp;DateId=20251209&quot;&gt; &lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/university-of-saskatchewan-selects-quicklogic-efpga-hardip-for-starrisc-mcu-302636217.html</guid>
+      <pubDate>Tue, 09 Dec 2025 12:21:09 GMT</pubDate>
     </item>
 
     <item>
-      <title>Trump says Nvidia can sell more powerful AI chips to China</title>
-      <link>https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us</link>
-      <description> 
- 
-&lt;img alt=&quot;&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;amp;strip=all&amp;amp;crop=0,0,100,100&quot;&gt; 
-	 
-		 
- 
-&lt;p&gt;Nvidia has received White House approval to start exporting its H200 AI GPU chips to &quot;approved customers&quot; in China and other countries, according to President Donald Trump. In &lt;a href=&quot;https://truthsocial.com/@realDonaldTrump/posts/115686072737425841&quot;&gt;a Truth Social post&lt;/a&gt; on Monday, Trump said the deal comes with &quot;conditions that allow for continued strong national security,&quot; and that the US will take a 25 percent cut of the GPU sales - higher than the &lt;a href=&quot;https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china&quot;&gt;15 percent cut&lt;/a&gt; that was demanded in August.&lt;/p&gt; 
-&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date&quot;&gt;Nvidia&apos;s H200 chips&lt;/a&gt; are an upgrade to the scaled-down H20 chips that Nvidia is already permitted to sell in China, but are less powerful than its latest &lt;a href=&quot;https://www.theverge.com/news/631835/nvidia-blackwell-ultra-ai-chip-gb300&quot;&gt;flagship Blackwell GPUs&lt;/a&gt;.&lt;/p&gt; 
-&lt;p&gt;&quot;This policy will support American jobs, stre …&lt;/p&gt; 
-&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us</guid>
-      <pubDate>Tue, 09 Dec 2025 11:34:24 GMT</pubDate>
+      <title>From Llamas to Avocados: Meta&apos;s shifting AI strategy is causing internal confusion</title>
+      <link>https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://image.cnbcfm.com/api/v1/image/108189400-1761929021329-108189400-1761918818994-108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpg?v=1761929034&amp;amp;w=1920&amp;amp;h=1080&quot; alt=&quot;108189400-1761929021329-108189400-176191&quot;&gt;&lt;/p&gt;Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.</description>
+      <guid isPermaLink="false">https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html</guid>
+      <pubDate>Tue, 09 Dec 2025 12:19:10 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Marvell’s $5.5B Celestial AI acquisition expands its role in AI data center hardware — firm now positioned to deliver next-gen optical interconnects</title>
+      <link>https://www.tomshardware.com/tech-industry/marvells-celestial-ai-acquisition-expands-its-role-in-ai-data-center-hardware</link>
+      <description>Marvell has confirmed plans to acquire Celestial AI in a deal worth up to $5.5 billion, a figure that immediately places it among the most aggressive acquisitions in the current AI cycle.</description>
+      <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/marvells-celestial-ai-acquisition-expands-its-role-in-ai-data-center-hardware</guid>
+      <pubDate>Tue, 09 Dec 2025 12:05:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
