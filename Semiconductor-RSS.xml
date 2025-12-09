@@ -5,16 +5,24 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 10:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 10:30:31 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Data centers: a view from the inside</title>
-      <link>https://techxplore.com/news/2025-12-centers-view.html</link>
-      <description>The expansion of data centers to power the AI boom has more people wondering: what exactly is in a data center?</description>
-      <guid isPermaLink="false">https://techxplore.com/news/2025-12-centers-view.html</guid>
-      <pubDate>Tue, 09 Dec 2025 09:35:48 GMT</pubDate>
+      <title>DoJ takes down sophisticated network smuggling $160m worth of AI chips to China</title>
+      <link>https://www.techradar.com/pro/security/doj-takes-down-sophisticated-network-smuggling-usd160m-worth-of-ai-chips-to-china</link>
+      <description>Chips are still going to China, just not through illegal channels.</description>
+      <guid isPermaLink="false">https://www.techradar.com/pro/security/doj-takes-down-sophisticated-network-smuggling-usd160m-worth-of-ai-chips-to-china</guid>
+      <pubDate>Tue, 09 Dec 2025 10:13:52 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans</title>
+      <link>https://www.cnbc.com/2025/12/09/us-attorneys-office-southern-district-of-texas-prosecutors-nvidia-chips-h200-h100-smuggle-china.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1765273165&amp;amp;w=1920&amp;amp;h=1080&quot; alt=&quot;108238869-1765273146995-gettyimages-2250&quot;&gt;&lt;/p&gt;Authorities have shut down yet another China-linked smuggling network for Nvidia&apos;s AI chips, according to a release from a U.S. Attorneys office.</description>
+      <guid isPermaLink="false">https://www.cnbc.com/2025/12/09/us-attorneys-office-southern-district-of-texas-prosecutors-nvidia-chips-h200-h100-smuggle-china.html</guid>
+      <pubDate>Tue, 09 Dec 2025 10:08:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
