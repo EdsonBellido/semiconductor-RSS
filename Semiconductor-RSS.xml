@@ -5,21 +5,32 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 01:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 01:30:30 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Ensuring Accuracy in LLM-Generated Hardware Logic Design Automation (IBM Research)</title>
-      <link>https://semiengineering.com/ensuring-accuracy-in-llm-generated-hardware-logic-design-automation-ibm-research/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg&quot; alt=&quot;iStock-1441278907-11-29-23.jpeg&quot;&gt;&lt;/p&gt;&lt;p&gt;A new technical paper “Mitigating hallucinations and omissions in LLMs for invertible problems: An application to hardware logic design automation” was published by researchers at IBM Research.&lt;/p&gt;  
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;  
-&lt;p&gt;“We show for invertible problems that transform data from a source domain (for example, Logic Condition Tables (LCTs)) to a destination domain (for example, Hardware Description Language (HDL) code), an approach of using Large Language Models (LLMs) as a lossless encoder from source to destination followed by as a lossless decoder back to the source, comparable to lossless compression in information theory, can mitigate most of the LLM drawbacks of hallucinations and omissions. Specifically, using LCTs as inputs, we generate the full HDL for a two-dimensional network-on-chip router (13 units, 1500-2000 lines of code) using seven different LLMs, reconstruct the LCTs from the auto-generated HDL, and compare the original and reconstructed LCTs. This approach yields significant productivity improvements, not only confirming correctly generated LLM logic and detecting incorrectly generated LLM logic but also assisting developers in finding design specification errors.”&lt;/p&gt;  
-&lt;p&gt;Find the technical &lt;a href=&quot;https://arxiv.org/abs/2512.03053&quot;&gt;paper here&lt;/a&gt;.  November 2025.&lt;/p&gt;  
-&lt;p&gt;Cassidy, Andrew S., Guillaume Garreau, Jay Sivagnaname, Mike Grassi, Bernard Brezzo, John V. Arthur, and Dharmendra S. Modha. “Mitigating hallucinations and omissions in LLMs for invertible problems: An application to hardware logic design automation.” arXiv preprint arXiv:2512.03053 (2025).&lt;/p&gt;  
-&lt;p&gt;The post &lt;a href=&quot;https://semiengineering.com/ensuring-accuracy-in-llm-generated-hardware-logic-design-automation-ibm-research/&quot;&gt;Ensuring Accuracy in LLM-Generated Hardware Logic Design Automation (IBM Research)&lt;/a&gt; appeared first on &lt;a href=&quot;https://semiengineering.com&quot;&gt;Semiconductor Engineering&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://semiengineering.com/ensuring-accuracy-in-llm-generated-hardware-logic-design-automation-ibm-research/</guid>
-      <pubDate>Tue, 09 Dec 2025 00:32:02 GMT</pubDate>
+      <title>LG Energy Solution reviewing plan to adopt Korea-made PLC in production equipment</title>
+      <link>http://www.thelec.net/news/articleView.html?idxno=5516</link>
+      <description>&lt;p&gt;&lt;img src=&quot;http://www.thelec.net/news/thumbnail/202512/5516_5883_5455_v150.jpg&quot; alt=&quot;5516_5883_5455_v150.jpg&quot;&gt;&lt;/p&gt;South Korean EV battery maker LG Energy Solution was considering using programmable logic controller (PLC) made by a compatriot company in one of its core battery production equipment.The battery maker was collaborating with LS Electric in the development of the PLC, though a spokesperson said it wa</description>
+      <guid isPermaLink="false">http://www.thelec.net/news/articleView.html?idxno=5516</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:45 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Avaco expected to win Gen 8.6 OLED equipment order from BOE</title>
+      <link>http://www.thelec.net/news/articleView.html?idxno=5515</link>
+      <description>&lt;p&gt;&lt;img src=&quot;http://www.thelec.net/news/thumbnail/202512/5515_5882_4842_v150.jpg&quot; alt=&quot;5515_5882_4842_v150.jpg&quot;&gt;&lt;/p&gt;Display equipment maker Avaco has received a letter of intent (LOI) from BOE to potentially supply equipment for the Chinese display giant’s phase two construction for its Gen 8.6 OLED factory called B16 in China.BOE had already used Avaco’s vacuum deposition transfer equipment for the first phase c</description>
+      <guid isPermaLink="false">http://www.thelec.net/news/articleView.html?idxno=5515</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:45 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>YEST to supply UTG laminators to Fine M-Tec</title>
+      <link>http://www.thelec.net/news/articleView.html?idxno=5514</link>
+      <description>&lt;p&gt;&lt;img src=&quot;http://www.thelec.net/news/thumbnail/202512/5514_5881_2821_v150.jpg&quot; alt=&quot;5514_5881_2821_v150.jpg&quot;&gt;&lt;/p&gt;Equipment maker YEST said on Monday that it has won an order from Fine M-Tec, which supplies back plates for foldable smartphones, to supply ultra-thin glass (UTG) laminators.UTGs are placed on top of foldable screens. YEST offers vacuum chambers for displays and film auto laminiator used to laminat</description>
+      <guid isPermaLink="false">http://www.thelec.net/news/articleView.html?idxno=5514</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
