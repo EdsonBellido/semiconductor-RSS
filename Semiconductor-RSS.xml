@@ -5,32 +5,70 @@
     <link>https://github.com/EdsonBellido/semiconductor-RSS</link>
     <description>Articles for semiconductor professionals</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 01:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 02:00:32 GMT</lastBuildDate>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <atom:link href="https://raw.githack.com/EdsonBellido/semiconductor-RSS/main/Semiconductor-RSS.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>LG Energy Solution reviewing plan to adopt Korea-made PLC in production equipment</title>
-      <link>http://www.thelec.net/news/articleView.html?idxno=5516</link>
-      <description>&lt;p&gt;&lt;img src=&quot;http://www.thelec.net/news/thumbnail/202512/5516_5883_5455_v150.jpg&quot; alt=&quot;5516_5883_5455_v150.jpg&quot;&gt;&lt;/p&gt;South Korean EV battery maker LG Energy Solution was considering using programmable logic controller (PLC) made by a compatriot company in one of its core battery production equipment.The battery maker was collaborating with LS Electric in the development of the PLC, though a spokesperson said it wa</description>
-      <guid isPermaLink="false">http://www.thelec.net/news/articleView.html?idxno=5516</guid>
-      <pubDate>Tue, 09 Dec 2025 01:04:45 GMT</pubDate>
+      <title>US Detains Two Men Accused of Smuggling Nvidia AI Gear to China</title>
+      <link>https://www.bloomberg.com/news/articles/2025-12-09/us-detains-two-men-accused-of-smuggling-nvidia-ai-gear-to-china</link>
+      <description>The US Department of Justice has detained two men for allegedly violating export control laws by attempting to smuggle at least $160 million worth of Nvidia Corp. AI chips to China. A third, the owner of a Houston company, has already pleaded guilty.</description>
+      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/us-detains-two-men-accused-of-smuggling-nvidia-ai-gear-to-china</guid>
+      <pubDate>Tue, 09 Dec 2025 01:57:51 GMT</pubDate>
     </item>
 
     <item>
-      <title>Avaco expected to win Gen 8.6 OLED equipment order from BOE</title>
-      <link>http://www.thelec.net/news/articleView.html?idxno=5515</link>
-      <description>&lt;p&gt;&lt;img src=&quot;http://www.thelec.net/news/thumbnail/202512/5515_5882_4842_v150.jpg&quot; alt=&quot;5515_5882_4842_v150.jpg&quot;&gt;&lt;/p&gt;Display equipment maker Avaco has received a letter of intent (LOI) from BOE to potentially supply equipment for the Chinese display giant’s phase two construction for its Gen 8.6 OLED factory called B16 in China.BOE had already used Avaco’s vacuum deposition transfer equipment for the first phase c</description>
-      <guid isPermaLink="false">http://www.thelec.net/news/articleView.html?idxno=5515</guid>
-      <pubDate>Tue, 09 Dec 2025 01:04:45 GMT</pubDate>
+      <title>[News] Over CNY 10 Billion is Poured into China’s Integrated Circuit Sector</title>
+      <link>https://www.trendforce.com/news/2025/12/09/news-over-cny-10-billion-is-poured-into-chinas-integrated-circuit-sector/</link>
+      <description>&lt;h1&gt;[News] Over CNY 10 Billion is Poured into China’s Integrated Circuit Sector&lt;/h1&gt;&lt;img width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://img.trendforce.com/blog/wp-content/uploads/2025/12/03144250/China-investment-in-semiconductor-FREEPIK-20251203-1024x576.jpg&quot; alt=&quot;&quot;&gt;&lt;p&gt;In recent weeks, China’s semiconductor industry has seen a hike in major capital investment into Integrated Circuit (IC) sector.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Shanghai IC Industry Investment Fund Phase II Raises Capital to CNY 24.06 Billion, Up ~66%&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Corporate registry data shows that the Shanghai Integrated Circuit Industry Investment Fund Phase II Co., Ltd. has increased its registered capital from roughly CNY 14.53 billion to 24.06 billion, marking an approximate 66% jump.&lt;/p&gt; 
+&lt;p&gt;Established in May 2020 and headquartered in Shanghai’s Pudong New Area, the fund is a state-backed private equity vehicle with shareholders including Shanghai Kechuang Group, Shanghai Guosheng Group, Shanghai International Group, Pudong Venture Capital Group, Lingang New Area Fund, Xingjia Equity, and Pudong New Industrial Investment.&lt;/p&gt; 
+&lt;p&gt;With supporting the high-quality development of China’s IC industry as a key commitment, the Phase II will invest the entire semiconductor value chain — design, manufacturing, packaging &amp;amp; testing, equipment, and materials. It places particular emphasis on advanced process technologies, key materials, and critical equipment where domestic capabilities remain limited.&lt;/p&gt; 
+&lt;p&gt;To date, the fund has invested in seven Shanghai-based IC companies, including GTX Semi, Xinyaoxin Technology, SMIC Southern Integrated Circuit Manufacturing, Hailin Micro IC, JCET Automotive Electronics, Advanced Silicon Technology, and Shanghai Dongfang Suanxin Technology.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;UNT’s Affiliated Company Increased Registered Capital to CNY 13.29 Billion, Up ~14%&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Data dated November 21 indicates that UNT Pioneer (Shaoxing) Co., Ltd. has raised its registered capital from about CNY 11.67 billion to 13.29 billion, an increase of roughly 14%.&lt;/p&gt; 
+&lt;p&gt;Founded in December 2021, the company is led by legal representative Zhao Qi and engages in IC manufacturing, chip and product fabrication, IC design, and related engineering services. It is jointly owned by UNT and others.&lt;/p&gt; 
+&lt;p&gt;UNT, founded in 2018 and headquartered in Shaoxing, Zhejiang — is a leading Chinese foundry specializing in power semiconductors and MEMS sensors, spanning MEMS, IGBT, MOSFET, analog IC, and MCU development and manufacturing. Its solutions serve automotive, new energy, industrial control, and home appliance markets.&lt;/p&gt; 
+&lt;p&gt;The capital injection is intended to support the company’s 12-inch mixed-signal IC manufacturing project, a core initiative aimed at boosting domestic high-end IC fabrication capacity and overcoming key process bottlenecks. The project includes the construction of a 12-inch wafer fab, development of mixed-signal process platforms, and investment in cleanrooms and auxiliary facilities.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;GalaxyCore (GC) Semiconductor Increases Registered Capital to CNY 7 Billion, Up ~56%&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Corporate filings show that on November 18, GalaxyCore Semiconductor (Shanghai) added GalaxyCore Shanghai as a new shareholder, while increasing its registered capital from CNY 4.5 billion to 7 billion, representing a rise of approximately 56%.&lt;/p&gt; 
+&lt;p&gt;Founded in March 2020 and led by legal representative Zhao Lixin, GC Semiconductor focuses on IC manufacturing, chip sales, IC design and engineering services, and technical R&amp;amp;D in semiconductors and integrated circuits.&lt;/p&gt; 
+&lt;p&gt;It is jointly owned by GC Hongkong and GC Shanghai which hold 64.3% and 35.7% stakes respectively. As a wholly owned subsidiary of GC Hongkong, GC Shanghai was established in 2003 in Shanghai’s Pudong New Area, focusing on the design, development and sales of CMOS image sensors (CIS) and high-end embedded multimedia SoCs.&lt;/p&gt; 
+&lt;p&gt;In 2023, GC Shanghai successfully industrialized its 12-inch CIS specialty process, marking its successful transition to a Fab-Lite model integrating design, R&amp;amp;D, manufacturing, and packaging &amp;amp; testing.&lt;/p&gt; 
+&lt;p&gt;(Photo credit: FREEPIK)&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.trendforce.com/landingPage/selected_topics_semiconductor&quot;&gt;&lt;img src=&quot;https://img.trendforce.com/blog/wp-content/uploads/2023/10/31134418/AIServer-728_90.png&quot; alt=&quot;&quot; width=&quot;728&quot; height=&quot;90&quot;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.trendforce.com/news/2025/12/09/news-over-cny-10-billion-is-poured-into-chinas-integrated-circuit-sector/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:36:44 GMT</pubDate>
     </item>
 
     <item>
-      <title>YEST to supply UTG laminators to Fine M-Tec</title>
-      <link>http://www.thelec.net/news/articleView.html?idxno=5514</link>
-      <description>&lt;p&gt;&lt;img src=&quot;http://www.thelec.net/news/thumbnail/202512/5514_5881_2821_v150.jpg&quot; alt=&quot;5514_5881_2821_v150.jpg&quot;&gt;&lt;/p&gt;Equipment maker YEST said on Monday that it has won an order from Fine M-Tec, which supplies back plates for foldable smartphones, to supply ultra-thin glass (UTG) laminators.UTGs are placed on top of foldable screens. YEST offers vacuum chambers for displays and film auto laminiator used to laminat</description>
-      <guid isPermaLink="false">http://www.thelec.net/news/articleView.html?idxno=5514</guid>
-      <pubDate>Tue, 09 Dec 2025 01:04:45 GMT</pubDate>
+      <title>[News] Baidu Reportedly Explores Kunlunxin Spinoff and Listing Amid a Surge in China Chip IPOs</title>
+      <link>https://www.trendforce.com/news/2025/12/09/news-baidu-reportedly-explores-kunlunxin-spinoff-and-listing-amid-a-surge-in-china-chip-ipos/</link>
+      <description>&lt;h1&gt;[News] Baidu Reportedly Explores Kunlunxin Spinoff and Listing Amid a Surge in China Chip IPOs&lt;/h1&gt;&lt;img width=&quot;640&quot; height=&quot;427&quot; src=&quot;https://img.trendforce.com/blog/wp-content/uploads/2025/12/08160751/Kunlunxin-Baidu-20251208-1024x683.jpg&quot; alt=&quot;&quot;&gt;&lt;p&gt;With China rushing to advance its AI chip capabilities despite U.S. export controls, Kunlunxin, the AI chip subsidiary of Chinese internet giant Baidu, is gaining renewed attention, particularly as rumors swirl about a possible IPO. According to &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://money.udn.com/money/story/5604/9188260?from=edn_subcatelist_cate&quot;&gt;Economic Daily News&lt;/a&gt;&lt;/span&gt;, Baidu’s AI chip subsidiary was recently reported to be planning a Hong Kong listing. However, &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://asia.cdn.euroland.com/press-releases-attachments./3948109/HKEX-EPS_20251207_11947178_0.PDF&quot;&gt;Baidu&lt;/a&gt;&lt;/span&gt; issued a statement on the 7th clarifying that it is evaluating a proposed spin-off and listing of Kunlunxin, but no final decision has been made.&lt;/p&gt; 
+&lt;p&gt;While Baidu has clarified that an IPO is not yet finalized, Kunlunxin’s valuation momentum remains strong.  As noted by &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://www.reuters.com/world/china/baidus-kunlunxin-valued-close-3-billion-eyes-hong-kong-ipo-sources-say-2025-12-05/&quot;&gt;Reuters&lt;/a&gt;&lt;/span&gt;, citing sources, the company completed a new funding round within the past six months, raising more than 2 billion yuan from a China Mobile fund and other private investors. The round valued Kunlunxin at about 21 billion yuan, up from 18 billion yuan in its previous fundraising, the report adds.&lt;/p&gt; 
+&lt;p&gt;Beyond speculation over Kunlunxin’s own listing plans, Reuters also points out that China’s chipmakers are moving ahead with a broader wave of IPOs. According to the report, following Moore Threads’ recent listing, MetaX is expected to debut in the coming weeks.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Kunlunxin’s Rapid Growth and Expanding Market Presence&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Kunlunxin has been rising quickly within China’s chip industry. According to &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://news.mydrivers.com/1/1090/1090934.htm&quot;&gt;Mydrivers&lt;/a&gt;&lt;/span&gt;, the company has recorded rapid business growth over the past two years. The report notes that while Baidu remains a major client, external customers now account for roughly 40% of its business, including major internet companies, smartphone manufacturers, telecom operators, and central state-owned enterprises.&lt;/p&gt; 
+&lt;p&gt;Mydrivers also points out that Kunlunxin’s revenue performance has been strong. In 2024, the company generated more than 1 billion yuan in revenue, surpassing other Chinese chip firms that have already filed for IPOs — including Enflame, Biren Technology, and MetaX — as well as listed companies such as Moore Threads and Cambricon Technologies.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Kunlunxin Showcases Next-Gen AI Chip Roadmap&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Kunlunxin has also been demonstrating its technological strength. According to&lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://finance.sina.com.cn/wm/2025-12-05/doc-infzukxy6426976.shtml&quot;&gt; Insight IPO on Sina&lt;/a&gt;&lt;/span&gt;, at Baidu World held in November, Baidu unveiled the next generation of Kunlunxin chips along with the Tianchi super-node product. Insight IPO notes that two new Kunlunxin models — the M100 and M300 — made their debut at the event. The M100 is optimized for large-scale inference and is scheduled for release in 2026, while the M300 targets training and inference for ultra-large multimodal models and is expected to launch in 2027.&lt;/p&gt; 
+&lt;p&gt;Meanwhile, as Insight IPO highlights, the core technological foundation supporting Kunlunxin’s high valuation is its third-generation P800 series — an AI accelerator chip built on the company’s self-developed XPU-P architecture that has already entered mass production and large-scale deployment. According to the report, the P800 delivers 345 TFLOPS of FP16 performance, far exceeding NVIDIA’s H20 chip for the Chinese market, which reaches 148 TFLOPS.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Read more&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;a href=&quot;https://www.trendforce.com/news/2025/10/07/news-chinas-gpu-trio-rise-as-nvidia-retreats-decoding-moore-threads-metax-and-cambricon/&quot;&gt;[News] China’s GPU Trio Rise as NVIDIA Retreats — Decoding Moore Threads, MetaX, and Cambricon&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;https://www.trendforce.com/news/2025/11/13/news-baidu-rolls-out-kunlun-roadmap-m100-m300-ai-chips-arrive-2026-2027/&quot;&gt;[News] Baidu Rolls Out Kunlun Roadmap, M100 &amp;amp; M300 AI Chips Arrive 2026–2027&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&quot;https://www.trendforce.com/news/2025/11/28/news-baidu-reportedly-launches-its-biggest-layoffs-in-years-as-it-overhauls-its-ai-business/&quot;&gt;[News] Baidu Reportedly Launches Its Biggest Layoffs in Years as It Overhauls Its AI Business&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;(Photo credit: Kunlunxin)&lt;/p&gt; 
+&lt;div&gt; 
+&lt;div style=&quot;background:#EEEEEE;padding:30px 25px 15px 25px;margin:10px;border:2px solid #CCCCCC;&quot;&gt; 
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;strong&gt;Please note that this article cites information &lt;/strong&gt;&lt;strong&gt;from &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://money.udn.com/money/story/5604/9188260?from=edn_subcatelist_cate&quot;&gt;Economic Daily News&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;,&lt;/span&gt; &lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://asia.cdn.euroland.com/press-releases-attachments./3948109/HKEX-EPS_20251207_11947178_0.PDF&quot;&gt;Baidu&lt;/a&gt;&lt;span style=&quot;color:#000000;&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://www.reuters.com/world/china/baidus-kunlunxin-valued-close-3-billion-eyes-hong-kong-ipo-sources-say-2025-12-05/&quot;&gt;Reuters&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://news.mydrivers.com/1/1090/1090934.htm&quot;&gt;Mydrivers&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;, and&lt;/span&gt; &lt;a style=&quot;color:#ff0000;&quot; href=&quot;https://finance.sina.com.cn/wm/2025-12-05/doc-infzukxy6426976.shtml&quot;&gt;Insight IPO on Sina&lt;/a&gt;&lt;span style=&quot;color:#000000;&quot;&gt;.&lt;/span&gt;&lt;/strong&gt;&lt;/h5&gt; 
+&lt;/div&gt; 
+&lt;/div&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.trendforce.com/landingPage/selected_topics_semiconductor&quot;&gt;&lt;img src=&quot;https://img.trendforce.com/blog/wp-content/uploads/2023/10/31134418/AIServer-728_90.png&quot; alt=&quot;&quot; width=&quot;728&quot; height=&quot;90&quot;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.trendforce.com/news/2025/12/09/news-baidu-reportedly-explores-kunlunxin-spinoff-and-listing-amid-a-surge-in-china-chip-ipos/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:36:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
